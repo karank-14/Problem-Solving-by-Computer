@@ -5,6 +5,9 @@
 
 ### Project 1 - Three Short Questions
 - [Question 1: Cubic Taxicab Number](ex1/ex1)
+  The task for this question was to find and return the closest cubic taxicab number N (integer)
+larger or equal to a given input. A cubic taxicab number is the result of adding together two
+unique pairs of perfect cubes.
 - [Question 2: Catalan's Constant](ex1/ex2)
 - [Question 3: Sum of Reciprocal Squares with Prime Factors](ex1/ex3)
 - [Report for Project 1](ex1/report)
