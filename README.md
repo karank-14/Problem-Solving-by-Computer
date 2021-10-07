@@ -20,7 +20,7 @@ to Catalan’s constant G, under the constraint, p + q is less than a positive i
 - [Report for Project 2](ex2/report)
 
 ### Project 3 - e-Commerce Data Analysis
-A data science project answring questions on a large e-commerce sales dataset
+A data science project answering questions on a large e-commerce sales dataset
 - [Source Code](ex3/src)
 - [Data Set](ex3/src/purchasing_order.csv)
 - [Report for Project 3](ex3/report)
